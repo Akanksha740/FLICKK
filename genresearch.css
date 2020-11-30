@@ -15,7 +15,7 @@ h2 {
 
 .in-bg {
     position: absolute;
-    background: rgba(2, 179, 228, 0.8);
+    background: gray;
     height: 90px;
     width: 100%;
     z-index: -9;
@@ -46,7 +46,7 @@ img {
 }
 
 table td:hover {
-    background: rgba(2, 179, 228, 0.8);
+    background: gray;
     color: #fff;
 }
 
@@ -56,7 +56,7 @@ table td {
 
 table th:hover {
     color: #fff;
-    background: rgba(2, 179, 228, 0.8);
+    background: gray;
     border-radius: 100px;
 }
 
@@ -73,25 +73,25 @@ textarea:focus {
 
 ::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: #fa3380;
+    color: black;
     font-size: 13px;
 }
 
 ::-moz-placeholder {
     /* Firefox 19+ */
-    color: #fa3380;
+    color: black;
     font-size: 13px;
 }
 
 :-ms-input-placeholder {
     /* IE 10+ */
-    color: #fa3380;
+    color: black;
     font-size: 13px;
 }
 
 :-moz-placeholder {
     /* Firefox 18- */
-    color: #fa3380;
+    color: black;
     font-size: 13px;
 }
 
@@ -105,7 +105,7 @@ textarea:focus {
     width: 100%;
     margin: 0 auto;
     font-family: 'Comfortaa', cursive;
-    color: #fa3380;
+    color: black;
 }
 
 .container table {
