@@ -27,6 +27,11 @@ body {
     min-width: 230px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .card:hover .gradient {
     opacity: 1;
 }
