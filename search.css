@@ -15,7 +15,7 @@ h2 {
 
 .in-bg {
     position: absolute;
-    background: #009ece;
+    background: black;
     height: 90px;
     width: 100%;
     z-index: -9;
